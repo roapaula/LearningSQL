@@ -1,0 +1,24 @@
+Ejercicio JOINS
+Punto a) Una empresa de venta de equipos informáticos necesita conocer a través de un informe, 
+el total de las ventas diarias por cliente que está generando, ordenadas por fecha. 
+Del cliente debemos mostrar (nombres, DNI, correo).
+
+Punto b) En otro reporte la empresa necesita saber el detalle de cada una de las ventas 
+(cuantos y que productos fueron registrados en cada venta)
+
+Tener en cuenta:
+De los CLIENTES:
+Nombres y Apellidos
+Documento de identidad
+Correo
+
+De los PRODUCTOS:
+Código
+Nombre
+Descripción
+
+De las VENTAS:
+Al cliente que se le ha hecho la venta
+Fecha de la venta
+Cuantas unidades y
+Cuales productos hemos vendido
